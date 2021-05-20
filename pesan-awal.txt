@@ -3,4 +3,4 @@ Langkah awal kenal github :
 - belajar css
 - belajar js
 - lanjut php
-- lanjut framework
+- terus laravel
