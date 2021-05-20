@@ -1,0 +1,4 @@
+Langkah awal kenal github :
+- belajar html
+- belajar css
+- belajar js
